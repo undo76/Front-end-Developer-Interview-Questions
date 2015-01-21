@@ -71,10 +71,6 @@
   1. If so, what libraries have you used? (Mustache.js, Handlebars etc.)
 1. Describe event bubbling.
 1. What is the difference between `==` and `===`?
-1. Make this work:
-```javascript
-duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
-```
 1. Why is it, in general, a good idea to leave the global scope of a website as-is and never touch it?
 
 #### jQuery Questions:
@@ -89,6 +85,11 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 1. What's your favorite feature of Internet Explorer?
 
 #### Coding Questions:
+
+1. Make this work:
+```javascript
+duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
+```
 
 1. Question: How would you make this work?
 ```javascript
@@ -123,7 +124,3 @@ foo.push(1);
 foo.push(2);
 ```
 
-
-#### Original Contributors:
-
-The majority of the questions were plucked from an [oksoclap](http://oksoclap.com/) thread created **originally*1. by [Paul Irish](http://paulirish.com) ([@paul_irish](http://twitter.com/paul_irish)) and collectively contributed to by the following: [@bentruyman](http://twitter.com/bentruyman) [@cowboy](http://twitter.com/cowboy) [@ajpiano](http://ajpiano)  [@SlexAxton](http://twitter.com/slexaxton) [@boazsender](http://twitter.com/boazsender) [@miketaylr](http://twitter.com/miketaylr) [@vladikoff](http://twitter.com/vladikoff) [@gf3](http://twitter.com/gf3) [@jon_neal](http://twitter.com/jon_neal) [@sambreed](http://twitter.com/sambreed) [@iansym](http://twitter.com/iansym)
